@@ -1,4 +1,4 @@
-# 🩺 Classificação do Câncer de Mama (Kaggle Mini Project)
+# 🩺 Classificação do Câncer de Mama
 
 Este projeto foi desenvolvido como parte do **Miniprojeto Kaggle 1 – Classificação de Câncer de Mama**, do curso de Big Data Analytics.  
 O objetivo é aplicar técnicas de **Aprendizado de Máquina supervisionado** para prever se um tumor é **maligno (M)** ou **benigno (B)** com base em diversas características extraídas de imagens de nódulos mamários.
