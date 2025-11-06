@@ -70,7 +70,7 @@ Foram testados os seguintes classificadores:
 
 A regressão logística apresentou desempenho perfeito no conjunto de validação, porém, para evitar **overfitting**, foi selecionado o **SVM** como modelo final, por demonstrar alta acurácia e melhor generalização.
 
-### 4. Ajuste Fino (Grid Search)
+### 4. Escolha do modelo e ajuste fino (Grid Search)
 Um `GridSearchCV` foi aplicado ao modelo SVM, resultando nos seguintes parâmetros ótimos:
 
 ```python
