@@ -35,6 +35,7 @@ breast-cancer-classification/
 │   ├── sample_submission.csv
 │
 ├── classificacao_de_cancer_de_mama.ipynb           ← código principal
+├── requirements.txt       ← (opcional, para dependências)
 ├── submission.csv           ← arquivo gerado após previsão
 └── README.md                ← documentação do projeto
 ```
