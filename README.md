@@ -6,6 +6,9 @@ O objetivo é aplicar técnicas de **Aprendizado de Máquina supervisionado** pa
 📊 **Competição Kaggle:**  
 [Breast Cancer Classification – Prototype Fall 2025](https://www.kaggle.com/competitions/breast-cancer-classification-prototype-fall-2025)
 
+**Apresentação Canva**  
+[Acesse aqui](https://www.canva.com/design/DAG4Dh1rnFM/JinUHFPbHV6YA9_g7FHrUQ/edit?utm_content=DAG4Dh1rnFM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 ---
 
 ## 🧠 Objetivo
